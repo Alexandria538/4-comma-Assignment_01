@@ -24,7 +24,7 @@ Assignment 1 for Generative AI and Design, VIZA 626 at Texas A&amp;M University 
   <h3 align="center">4-Comma: Recursive Fractals and Firefly</h3>
 
   <p align="center">
-    Create a 4-Koma (Yonkoma) manga that explores or utilizes generative methods or AI tools. The comic should consist of 4 panels that effectively capture your narrative about the topic, concept, or the use of these tools. It can be illustrated, captured from a 3D animation, or generated. Be creative, artistic, and most importantly, have fun with the process! 
+    My project is trying to encapsulate the idea behind the integration of AI and artistic creation. Using contiuously adapting AI programs with creative programs, such as Adobe Firefly and Adobe Photoshop, shows that adapting AI as a tool to supplement creative decision-making allows for more creative potential through the iterative proces while maintaining artistic integrity.  
     <br />
     <a href="https://github.com/Alexandria538/4-comma-Assignment_01/blob/main/4-comma-Assignment_01.pdf"><strong>Link to PDF Report »</strong></a>
     <br />
