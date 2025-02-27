@@ -49,6 +49,9 @@ elements generated through Adobe Firefly’s AI, I developed a hybrid creative p
 artistic control while leveraging AI-assisted iterations to enhance my comic’s visual narrative. This
 creates a universal methodology that is adaptable to diverse artistic approaches.
 
+Additional KeyWords and Phrases: AI generative art, Adobe Firefly, Adobe Photoshop, hybrid creative pipeline,
+creative exploration, AI-assisted iterations, digital workflow, artistic control, image refinement
+
 <!-- Introduction and Related Works -->
 ## Introduction and Related Works
 
