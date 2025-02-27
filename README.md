@@ -41,7 +41,10 @@ Assignment 1 for Generative AI and Design, VIZA 626 at Texas A&amp;M University 
 
 <!-- Abstract -->
 ## Abstract
-This project is a critique of attitudes that value art only as a method of making money and disregard the work and experience needed to create notable art. I highlight the ways that AI steals art through its training data and ignores ownership by recreating copyrighted characters through prompt engineering.
+Through an integrated workflow combining digital drawing techniques in Photoshop with strategic
+elements generated through Adobe Firefly’s AI, I developed a hybrid creative pipeline that maintains
+artistic control while leveraging AI-assisted iterations to enhance my comic’s visual narrative. This
+creates a universal methodology that is adaptable to diverse artistic approaches.
 
 <!-- Introduction and Related Works -->
 ## Introduction and Related Works
@@ -50,47 +53,79 @@ This project is a critique of attitudes that value art only as a method of makin
 
 *Figure 2. Related works in this domain.*
 
-Your Introduction and Related Works here: 200 words here.
-
-Here I talk about how these works have paved the way for my project. Recent research shows that sense of belonging is evoked when using mixed realty [1], and my work is inspired by this xyz. Another recent project examines the beauty of symmetry in evolution [2] that my work highlights in my 4-comma cell number 4.
-Notable work by Kamp in 2019, highlights the beauty that could be found in nature and how it connects to design [3] and my work show the influence of that visual in 4-comma cell number 3.
+My interest in AI generative art as a creative tool has developed over the course of my college
+education due to its quick evolution and endless opportunities to supplement artistic exploration. I
+intend to use AI generations to supplement my design so I can evaluate artistic options and make
+critical decisions more efficiently. Multiple studies have looked at “how creative AI tools such as
+image generative AI tools can be applied in various creative stages” (Huang). Manga is an effective
+medium to highlight this process due to its simplistic base, and versatility to various artistic styles.
+I believe Adobe Firefly and Photoshop work as effective mediums due to their easy user interface,
+diverse tool sets, and accessibility. “Creatively oriented artificial intelligence (AI). . . are subject
+to continuous improvement. . . ” however there are common limitations such textual generation,
+logical discrepancies, and lack of uniqueness (Angelova). There are countless available graphics
+editors like Photoshop and both closed-sourced and open-sourced AI models to explore this method
+of creative exploration. For example, “While closed-source Gen AI models still exhibit superior
+performance compared to their open-source counterparts. . . this gap is steadily narrowing” (Chun
+et al). Understanding your needs and the available options of the current market will help you find
+the best programs to use.
 
 
 ## Methodology
 [![4-comma][images-fig3]](https://example.com)
 
-*Figure 3. A collection of the prompts (black text) and the images they generated in ChatGPT's DALLE-3 Image Generator. These images document the process to recreate the animated character Scooby Doo owned by Warner Brothers Entertainment despite OpenAI's copyright protections.*
-
-Your Methodology and Related Works here: 200 words here.
+The creative process begins with planning your composition in Photoshop, where you’ll design and
+layout the content for each individual cell. An alternative approach is to hand-draw your content on
+paper and digitize it through scanning, allowing for digital refinement afterward. Once your initial
+design is complete, upload it to Adobe Firefly using the reference option for composition. This
+powerful AI tool enables you to generate multiple variations of your artwork, exploring countless
+different creative directions [Figure 2]. The generation process can vary in duration based on your
+specific requirements, the complexity, and the fine tuning of your settings. Use the generated images
+to update your artwork back in your editing software. You can iterate through the process multiple
+times to achieve consistent styling and maintain visual harmony. While Photoshop is commonly
+used for this workflow, other digital art software can also be employed for the initial creation and
+manipulation phases. Through repeated experimentation with Firefly’s controls, you’ll develop a
+deeper understanding of how to achieve your desired artistic style. This iterative process ensures
+that all cells maintain stylistic cohesion while allowing for creative evolution. The combination
+of traditional techniques and AI-assisted generation provides flexibility in achieving your artistic
+vision.
 
 [![4-comma][images-fig4]](https://example.com)
 
 *Figure 4. A screencapture of the prompt to create the character of "The Hulk" owned by Marvel Entertainment and the image that it generated.*
 
 ## Result and Future Work
-Your Result and Future Work here: 100 words here.
+I created a hand-drawn piece that matched my artistic vision yet explored more artistic avenues
+within a reduced time limit, allowing for more development. Outside of shifting to grayscale, the
+outcome matched my initial ideas. The process helped create a detailed environment, eliminate
+unnecessary elements, and the appeal of the characters. Firefly proved valuable for creative exploration,
+though I’d dedicate more time with manipulating the controls. The process showed me
+that investigating different approaches is crucial for artistic development. I plan to continue using
+Firefly for future projects, focusing on thorough exploration of its features to enhance my work.
 
 ## Conclusion
-Your Conclusion here: 50 words here
+This method of integrating artistic practices with AI assistance has shown that automation has the
+potential to enhance rather than replace creativity. The iterative process between Photoshop and
+Firefly, and other similar programs, demonstrates how AI can spark new possibilities and accelerate
+creative decision-making while maintaining artistic integrity.
 
 <!-- Bibliography -->
 ## Bibliography
-[1] Abell, Catharine. “Art: What It Is and Why It Matters.” Philosophy and Phenomenological Research, vol. 85, no. 3, 21 July 2011, pp. 671–691, https://doi.org/10.1111/j.1933-1592.2011.00498.x. Accessed 28 Feb. 2019.
+[1] Angelova, Nadezhda. "The capabilities of the art-oriented artificial intelligence Adobe Firefly
+and its visual advantages and disadvantages." Journal" Fundamental Sciences and Applications"
+30.1 (2024): 1-10.
 
-[2] Marcus, Gary, and Reid Southen. “Generative AI Has a Visual Plagiarism Problem - IEEE Spectrum.” Spectrum.ieee.org, IEEE, 6 Jan. 2024, spectrum.ieee.org/midjourney-copyright. Accessed 25 Feb. 2025.
+[2] Chun, Jordi Cabot10, et al. "Risks and Opportunities of Open-Source Generative AI." arXiv
+preprint arXiv:2405.08597 (2024).
 
-[3] Tweed, Laurel. “AI’s Role in Ethical Decision-Making: Fostering Fairness in Critical Systems with Explainable AI (XAI).” IEEE Computer Society, IEEE, 31 Jan. 2025, www.computer.org/publications/tech-news/community-voices/explainable-ai. Accessed 25 Feb. 2025.
-
-[4] Avey, Chester. “Ethical Pros and Cons of AI Image Generation.” IEEE Computer Society, IEEE, 27 Dec. 2023, www.computer.org/publications/tech-news/community-voices/ethics-of-ai-image-generation. Accessed 25 Feb. 2025.
-
-
+[3] Huang, Julia. "The Art of AI: A Human-Centered AI (HCAI) User Study of Integrating Image-
+Generative Tools in Visual Art Workflows: The Case Of Adobe Firefly." (2024).
 
 <!-- CONTACT -->
 ## Contact
 
-Kennedy Patterson - kennedyp@tamu.edu
+Email - alexandria538@tamu.edu
 
-Personal Website: [https://kennedpatterson.artstation.com/](https://kennedpatterson.artstation.com/)
+Personal Website: (https://tdelafuente.myportfolio.com/)
 
 
 
