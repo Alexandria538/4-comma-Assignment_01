@@ -49,10 +49,6 @@ creates a universal methodology that is adaptable to diverse artistic approaches
 <!-- Introduction and Related Works -->
 ## Introduction and Related Works
 
-[![4-comma][images-fig2]](https://example.com)
-
-*Figure 2. Related works in this domain.*
-
 My interest in AI generative art as a creative tool has developed over the course of my college
 education due to its quick evolution and endless opportunities to supplement artistic exploration. I
 intend to use AI generations to supplement my design so I can evaluate artistic options and make
@@ -71,8 +67,6 @@ the best programs to use.
 
 
 ## Methodology
-[![4-comma][images-fig3]](https://example.com)
-
 The creative process begins with planning your composition in Photoshop, where you’ll design and
 layout the content for each individual cell. An alternative approach is to hand-draw your content on
 paper and digitize it through scanning, allowing for digital refinement afterward. Once your initial
@@ -88,10 +82,9 @@ deeper understanding of how to achieve your desired artistic style. This iterati
 that all cells maintain stylistic cohesion while allowing for creative evolution. The combination
 of traditional techniques and AI-assisted generation provides flexibility in achieving your artistic
 vision.
+[![4-comma][images-fig2]](https://example.com)
 
-[![4-comma][images-fig4]](https://example.com)
-
-*Figure 4. A screencapture of the prompt to create the character of "The Hulk" owned by Marvel Entertainment and the image that it generated.*
+*Figure 2. Related works in this domain.*
 
 ## Result and Future Work
 I created a hand-drawn piece that matched my artistic vision yet explored more artistic avenues
@@ -101,6 +94,12 @@ unnecessary elements, and the appeal of the characters. Firefly proved valuable 
 though I’d dedicate more time with manipulating the controls. The process showed me
 that investigating different approaches is crucial for artistic development. I plan to continue using
 Firefly for future projects, focusing on thorough exploration of its features to enhance my work.
+
+[![4-comma][images-fig3]](https://example.com)
+*Figure 3
+[![4-comma][images-fig4]](https://example.com)
+
+*Figure 4. A screencapture of the prompt to create the character of "The Hulk" owned by Marvel Entertainment and the image that it generated.*
 
 ## Conclusion
 This method of integrating artistic practices with AI assistance has shown that automation has the
