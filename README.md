@@ -29,7 +29,7 @@ Assignment 1 for Generative AI and Design, VIZA 626 at Texas A&amp;M University 
     <a href="https://github.com/Alexandria538/4-comma-Assignment_01/blob/main/4-comma-Assignment_01.pdf"><strong>Link to PDF Report »</strong></a>
     <br />
     <br />
-    <a href="https://website.com">Kennedy Patterson</a>
+    <a href="https://website.com">Tessa DeLaFuente</a>
     &middot;
     <a href="https://sites.google.com/view/viza626/home">VIZA 626</a>
   </p>
