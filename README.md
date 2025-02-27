@@ -37,7 +37,10 @@ Assignment 1 for Generative AI and Design, VIZA 626 at Texas A&amp;M University 
 
 [![4-comma][images-fig1]](https://example.com)
 
-*Figure 1. This is my 4-comma, explain what this 4-comma is trying to encaptulate.* *Ensure your image is high-definition, with a width greater than 3500 pixels. If your imafe is not wide enough, it will not fill the page!*
+*Fig. 1. This is my 4-comma, where a scientist character is trying to photograph a rare bird with his knowledge
+and application of recursive fractals in nature which he applied to a camouflage outfit. He waits for 7 hours
+and is irritated that it didn’t work, but unbeknownst to him, the rare bird has decided to use his hat as a
+perch.*
 
 <!-- Abstract -->
 ## Abstract
@@ -84,7 +87,15 @@ of traditional techniques and AI-assisted generation provides flexibility in ach
 vision.
 [![4-comma][images-fig2]](https://example.com)
 
-*Figure 2. Related works in this domain.*
+*Fig. 2. Image generations from Adobe Firefly. The prompt I used was "a man in glasses in a camouflage suit
+hiding in the bushes with a camera and binoculars", for cell 1 and "a bird with red feathers, big eyes and a big
+beak with a plume like a crown" for the bird in Cell 4. [Red] Initial attempts for cell 1 generations did not
+show much difference from straight generations without reference. Even generating with the distinction of
+’art’ instead of ’photo’ produces near-realistic images. [Yellow] Stylistic exploration: Art, Simple, Fauvism,
+Modern Art, Comic Book, Digital art (Increased Impact of my Composition reference based on sketches:
+results in more abstracted images and patterns.) [Green] Stylistic exploration: Art, Simple, Fauvism, Modern
+Art, Comic Book, Digital art (medium impact of Composition reference, see step 1 of Fig. 4.) [Blue]
+Stylistic exploration: Same filters utilized as the Green group only using the secondary prompt.*
 
 ## Result and Future Work
 I created a hand-drawn piece that matched my artistic vision yet explored more artistic avenues
@@ -96,10 +107,12 @@ that investigating different approaches is crucial for artistic development. I p
 Firefly for future projects, focusing on thorough exploration of its features to enhance my work.
 
 [![4-comma][images-fig3]](https://example.com)
-*Figure 3
+*Fig. 3. Here is the creative progression for the bird character featured in cell 04 from the initial sketch to the
+finished image [Step 4 and 5 cropped for viewing convenience].*
 [![4-comma][images-fig4]](https://example.com)
 
-*Figure 4. A screencapture of the prompt to create the character of "The Hulk" owned by Marvel Entertainment and the image that it generated.*
+*Fig. 4. Here is the progression for cell 1 including initial sketching, character development, environmental
+detailing, and text implementation. Note that the other three cells were alterations of this cell.*
 
 ## Conclusion
 This method of integrating artistic practices with AI assistance has shown that automation has the
