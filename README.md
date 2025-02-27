@@ -26,7 +26,7 @@ Assignment 1 for Generative AI and Design, VIZA 626 at Texas A&amp;M University 
   <p align="center">
     Short two sentence project desctiption here!
     <br />
-    <a href="https://github.com/Alexandria538/4-comma-Assignment_01/tree/main"><strong>Link to PDF Report »</strong></a>
+    <a href="https://github.com/Alexandria538/4-comma-Assignment_01/blob/main/4-comma-Assignment_01.pdf"><strong>Link to PDF Report »</strong></a>
     <br />
     <br />
     <a href="https://website.com">Kennedy Patterson</a>
